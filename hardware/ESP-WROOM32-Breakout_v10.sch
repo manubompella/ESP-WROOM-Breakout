@@ -6,7 +6,7 @@
 <setting alwaysvectorfont="no"/>
 <setting verticaltext="up"/>
 </settings>
-<grid distance="0.1" unitdist="inch" unit="inch" style="lines" multiple="1" display="no" altdistance="0.01" altunitdist="inch" altunit="inch"/>
+<grid distance="0.05" unitdist="inch" unit="inch" style="lines" multiple="1" display="yes" altdistance="0.025" altunitdist="inch" altunit="inch"/>
 <layers>
 <layer number="1" name="Top" color="4" fill="1" visible="no" active="no"/>
 <layer number="2" name="Route2" color="1" fill="3" visible="no" active="no"/>
@@ -10718,13 +10718,14 @@ Inspired by the Espressif ESP32-DevKitC - http://espressif.com</text>
 <text x="201.93" y="90.17" size="3.81" layer="94" align="bottom-center">Switches and Status LEDs</text>
 <text x="121.92" y="90.17" size="3.81" layer="94" align="bottom-center">Programming Logic</text>
 <text x="49.53" y="161.29" size="3.81" layer="94" align="bottom-center">ESP-WROOM-32</text>
-<text x="124.46" y="31.75" size="3.81" layer="94" align="bottom-center">3V3 Regulator</text>
-<text x="104.14" y="53.34" size="1.27" layer="97" align="top-left">ESP32  Boot Modes
+<text x="124.46" y="30.48" size="3.81" layer="94" align="bottom-center">3V3 Regulator</text>
+<text x="102.87" y="52.07" size="1.27" layer="97" align="top-left">Run Mode: IO0=High
+Download Mode: IO0=Low
+TXD0, IO2 and IO5 left floating/open.
 
-Run: IO0=High
-Download: IO0=Low
-
-TXD0, IO2 and IO5 left floating/open.</text>
+On programming problems hold down the 
+boot switch on download start or add a 
+2uF capacitor between EN and GND.</text>
 </plain>
 <instances>
 <instance part="FRAME1" gate="F" x="0" y="0"/>

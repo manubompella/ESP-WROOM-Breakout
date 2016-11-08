@@ -17,7 +17,7 @@ Breakouts for ESP8266 and ESP32 WiFi/WLAN + Bluetooth modules from Espressif.
 * Network standard: IEEE 802.11b/g/n 2.4GHz
 * Wireless security: WEP, WPA, WPA2, WAPI
 * Wi-Fi Direct and Soft-AP (Access-Point mode)
-* Silabs [CP2102N](http://www.silabs.com/products/interface/usb-bridges/usbxpress-usb-bridges/Pages/usbxpress-usb-bridges.aspx) USB UART Bridge
+* Silabs [CP2102N](http://www.silabs.com/products/interface/usb-bridges/usbxpress-usb-bridges/Pages/usbxpress-usb-bridges.aspx) USB UART Bridge (up to 3M baud)
 * microUSB-Connector
 
 

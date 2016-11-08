@@ -25,3 +25,4 @@ Breakouts for ESP8266 and ESP32 WiFi/WLAN + Bluetooth modules from Espressif.
 * [Schematics + Layout](https://github.com/watterott/ESP-WROOM-Breakout/tree/master/hardware)
 * ESP8266: [Arduino Core](https://github.com/esp8266/Arduino) (Board: NodeMCU v1)
 * ESP32: [Arduino Core](https://github.com/espressif/arduino-esp32) (Board: ESP32 Dev Module)
+* [Silabs Serial Port Driver (VCP)](http://www.silabs.com/products/mcu/pages/usbtouartbridgevcpdrivers.aspx)

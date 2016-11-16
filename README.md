@@ -3,7 +3,7 @@ Breakouts for ESP8266 and ESP32 WiFi/WLAN + Bluetooth modules from Espressif.
 *Note: AI-Thinker ESP-13 is compatible with Espressif ESP-WROOM-02 and AI-Thinker ESP-32S is compatible with Espressif ESP-WROOM-32.*
 
 [![ESP-WROOM02-Breakout](https://github.com/watterott/ESP-WROOM-Breakout/raw/master/hardware/ESP-WROOM02-Breakout_v10.jpg)](http://www.watterott.com/en/ESP-WROOM02-Breakout)
-[![ESP-WROOM32-Breakout](https://github.com/watterott/ESP-WROOM-Breakout/raw/master/hardware/ESP-WROOM32-Breakout_v10.jpg)](http://www.watterott.com/en/ESP-WROOM32-Breakout)
+[![ESP-WROOM32-Breakout](https://github.com/watterott/ESP-WROOM-Breakout/raw/master/hardware/ESP-WROOM32-Breakout_v11.jpg)](http://www.watterott.com/en/ESP-WROOM32-Breakout)
 
 
 ## Shop

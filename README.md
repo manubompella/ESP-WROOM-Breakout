@@ -13,10 +13,11 @@ Breakouts for ESP8266 and ESP32 WiFi/WLAN + Bluetooth modules from Espressif.
 
 ## Features
 * Espressif [ESP8266 ESP-WROOM-02](http://espressif.com/en/products/hardware/esp8266ex/overview) WiFi module
-* Espressif [ESP32 ESP-WROOM-32](http://espressif.com/en/products/hardware/esp32/overview) WiFi+BT module
-* Network standard: IEEE 802.11b/g/n 2.4GHz
-* Wireless security: WEP, WPA, WPA2, WAPI
-* Wi-Fi Direct and Soft-AP (Access-Point mode)
+* Espressif [ESP32 ESP-WROOM-32](http://espressif.com/en/products/hardware/esp32/overview) WiFi+Bluetooth module
+* WiFi standard: IEEE 802.11b/g/n 2.4GHz
+* WiFi security: WEP, WPA, WPA2, WAPI
+* WiFi Direct and Soft-AP (Access-Point mode)
+* Classic and BLE Bluetooth (ESP32)
 * Silabs [CP2102N](http://www.silabs.com/products/interface/usb-bridges/usbxpress-usb-bridges/Pages/usbxpress-usb-bridges.aspx) USB UART Bridge (up to 3M baud)
 * microUSB-Connector
 
